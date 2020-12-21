@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Figure square calculator</string>
+    <string-array name="figures_array">
+        <item>Triangle</item>
+        <item>Circle</item>
+        <item>Rectangle</item>
+    </string-array>
+    <string name="main_button">Расчитать</string>
+    <string name="rectangle_width">Введите ширину прямоугольника:</string>
+    <string name="rectangle_length">Введите длину прямоугольника:</string>
+    <string name="get_square">Рассчитать площадь фигуры</string>
+    <string name="get_perimeter">Рассчитать периметр фигуры</string>
+    <string name="get_circle_square">Рассчитать площадь фигуры</string>
+    <string name="get_circle_perimeter">Рассчитать периметр фигуры</string>
+    <string name="rectangle_perimeter">Периметр равен:</string>
+    <string name="rectangle_square">Площадь равна:</string>
+    <string name="circle_perimeter">Периметр равен:</string>
+    <string name="circle_square">Площадь равна:</string>
+    <string name="circle_radius">Введите радиус круга</string>
+    <string name="triangle_first_number">Введите длину первой стороны</string>
+    <string name="triangle_second_number">Введите длину второй стороны</string>
+    <string name="triangle_third_number">Введите длину третьей стороны</string>
+    <string name="triangle_square">Площадь треугольника равна:</string>
+    <string name="triangle_perimeter">Периметр треугольника равен:</string>
+
+</resources>
